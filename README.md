@@ -23,23 +23,4 @@
         <h1 id="2" ><pre>مشخصات</pre></h1>
         <hr><big>مک بوک مشخصات بسیار خفنی دارد و پردازنه ی مک بوک اپل ام 2 است و شارژ خود را میتواند تا 4 ساعت : نگه دارد و 2 ترابایت حافظه دارد و 32 گیگ رم دارد</big></hr>
         <img width="720" height="480" src="https://s30.picofile.com/file/8472750550/638bb5df1d67bb742b229813.jpg" alt="ERORR" >
-    </body>
-</html>
-سس
-سس
-
-<!--
-**alireza99991/alireza99991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 س
